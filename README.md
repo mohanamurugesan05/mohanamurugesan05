@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**mohanamurugesan05/mohanamurugesan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Mohana
+B.SC Computer science student 
+interested in AI, Python & Smart systems 
+working on real-world AI-based projects 
+3rd prize winner - AI smart water monitoring system
+completed my  1st year internship at Balvion Technologies 
+SKILLS:
+.Python
+.AI principles
+.Web Designing
+.Data Structures
+.C-Programming
+PROJECTS
+.AI Smart Water Monitoring System
+.PCOD Predection App
+.Student grade Predictor
+.Data Cleaning & Visualization project
+CONNECT WITH ME 
+LINKEDIN : https://www.linkedin.com/in/mohana-m-684669377
